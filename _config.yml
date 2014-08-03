@@ -9,6 +9,8 @@ github_username:  jekyll
 
 exclude: [Gemfile, Gemfile.lock, Rakefile, vendor]
 
+timezone: Europe/Paris
+
 # Build settings
 markdown: kramdown
 permalink: /:title
