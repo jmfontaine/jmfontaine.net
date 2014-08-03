@@ -7,7 +7,7 @@ url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
-exclude: [vendor]
+exclude: [Gemfile, Gemfile.lock, vendor]
 
 # Build settings
 markdown: kramdown
