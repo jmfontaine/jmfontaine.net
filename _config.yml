@@ -12,3 +12,6 @@ exclude: [Gemfile, Gemfile.lock, Rakefile, vendor]
 # Build settings
 markdown: kramdown
 permalink: /:title
+
+gems:
+  - jekyll-sitemap
