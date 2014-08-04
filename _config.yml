@@ -7,7 +7,7 @@ url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
-exclude: [Gemfile, Gemfile.lock, Rakefile, vendor]
+exclude: [.bowerrc, bower.json, Gemfile, Gemfile.lock, Rakefile, vendor]
 
 timezone: Europe/Paris
 
@@ -16,4 +16,16 @@ markdown: kramdown
 permalink: /:title
 
 gems:
+  - jekyll-assets
   - jekyll-sitemap
+
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/stylesheets
+  css_compressor: ~
+  js_compressor: ~
+  cachebust: none
+  gzip: [ text/css, application/javascript ]
+  debug: false

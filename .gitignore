@@ -1,4 +1,5 @@
 .bundle/
+_assets/components
 _site/
 vendor/
 s3_website.yml

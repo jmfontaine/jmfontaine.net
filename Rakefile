@@ -1,3 +1,8 @@
+desc "Initialize project"
+task :init do
+  sh "bower install"
+end
+
 desc "Run local server"
 task :serve do
   sh "bundle exec jekyll serve --drafts --watch"
