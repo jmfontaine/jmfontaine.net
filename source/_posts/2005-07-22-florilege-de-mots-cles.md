@@ -1,0 +1,19 @@
+---
+title: Florilège de mots-clés
+id: 449
+categories:
+  - Vie du blog
+date: 2005-07-22 13:03:31
+tags:
+---
+
+En observant ses statistiques, on trouve parfois des choses étranges. Notamment au niveau des mots-clé utilisés dans les moteurs de recherche pour arriver sur ce blog. Voici un petit florilège des mots-clé les plus étranges, déplacés ou drôles.
+
+*   [machine a laver](http://www.google.fr/search?hl=fr&amp;q=machine+a+laver&amp;btnG=Recherche+Google&amp;meta=)&nbsp;: Je devrais peut-être envisager un partenariat avec Darty étant donné que 48 personnes sont venus sur ce blog en tapant _machine a laver_ dans un moteur de recherche.
+*   [ostentatoire](http://www.google.fr/search?hl=fr&amp;q=ostentatoire&amp;btnG=Rechercher&amp;meta=), [dubitatif](http://www.google.fr/search?hl=fr&amp;q=dubitatif&amp;btnG=Rechercher&amp;meta=), [colophon](http://www.google.fr/search?hl=fr&amp;q=colophon&amp;btnG=Rechercher&amp;meta=), [epiglotte](http://www.google.fr/search?hl=fr&amp;q=epiglotte&amp;btnG=Rechercher&amp;meta=)
+*   [beau gosse](http://www.google.fr/search?hl=fr&amp;q=beau+gosse&amp;btnG=Rechercher&amp;meta=), [beaugosse](http://www.google.fr/search?hl=fr&amp;q=beaugosse&amp;btnG=Rechercher&amp;meta=), [photo beau gosse](http://www.google.fr/search?hl=fr&amp;q=photo+beau+gosse&amp;btnG=Rechercher&amp;meta=), [je suis beau](http://www.google.fr/search?hl=fr&amp;q=je+suis+beau&amp;btnG=Rechercher&amp;meta=), [les beau gosse](http://www.google.fr/search?hl=fr&amp;q=les+beau+gosse&amp;btnG=Rechercher&amp;meta=), [image beau gosse](http://www.google.fr/search?hl=fr&amp;q=image+beau+goss&amp;btnG=Rechercher&amp;meta=), [blog de beau gosse](http://www.google.fr/search?hl=fr&amp;q=blog+de+beau+gosse&amp;btnG=Rechercher&amp;meta=), [skyblog de beau gosse](http://www.google.fr/search?hl=fr&amp;q=skyblog+de+beau+gosse&amp;btnG=Rechercher&amp;meta=), [beau-gosse](http://www.google.fr/search?hl=fr&amp;q=beau-gosse&amp;btnG=Rechercher&amp;meta=), [beaucul](http://www.google.fr/search?hl=fr&amp;q=beaucul&amp;btnG=Rechercher&amp;meta=)&nbsp;: Voilà qui confirme le fait que [je suis un beau gosse](/blog/2004/12/27/321-je-suis-un-beau-gosse).
+*   [laleh seddigh](http://www.google.fr/search?hl=fr&amp;q=laleh+seddigh&amp;btnG=Rechercher&amp;meta=)&nbsp;: Renseignements pris, il s'agit d'une Iranienne pilote de course mais ce qui est étonnant c'est que [je n'en ai jamais parlé](http://www.google.fr/search?hl=fr&amp;q=laleh+seddigh+site%3Adyingculture.net&amp;btnG=Rechercher&amp;meta=)
+*   [site raciste](http://www.google.fr/search?hl=fr&amp;q=site+raciste&amp;btnG=Rechercher&amp;meta=)&nbsp;: Je dois avouer que celui là ne m'a pas tellement fais rire mais j'ai finalement trouvé l'explication dans [ce billet](/blog/2004/08/22/257-politique-de-liens)
+*   [histoires grivoises](http://www.google.fr/search?hl=fr&amp;q=histoires+grivoises&amp;btnG=Rechercher&amp;meta=), [anpe belgique](http://www.google.fr/search?hl=fr&amp;q=anpe+belgique&amp;btnG=Rechercher&amp;meta=), [télé vatican](http://www.google.fr/search?hl=fr&amp;q=t%C3%A9l%C3%A9+vatican&amp;btnG=Rechercher&amp;meta=), [satan inside](http://www.google.fr/search?hl=fr&amp;q=satan+inside&amp;btnG=Rechercher&amp;meta=)&nbsp;: Et la marmotte ...
+*   [frederic francois](http://www.google.fr/search?hl=fr&amp;q=frederic+francois&amp;btnG=Rechercher&amp;meta=), [frank mickael](http://www.google.fr/search?hl=fr&amp;q=frank+mickael&amp;btnG=Rechercher&amp;meta=)&nbsp;: Je suis également fort en chanteurs cérébralement morts.
+*   [flach gaime](http://www.google.fr/search?hl=fr&amp;q=flach+gaime&amp;btnG=Rechercher&amp;meta=)&nbsp;: Encore un qui a trop sêché les cours de français.

@@ -1,0 +1,18 @@
+---
+title: Bonnes adresses
+id: 197
+categories:
+  - Cuisine
+date: 2004-06-01 21:51:32
+tags:
+---
+
+Ce week-end j'ai reçu des invitées de marque, à savoir ma mère et ma soeur. Connaissant leur goût pour la bonne chère (je sais bien que les substituts de repas ne sont qu'un alibi), j'ai essayer de leur faire découvrir les joies de la gastronomie de ma région d'adoption.
+
+Samedi, nous avons donc été à **[la brasserie à vapeur](http://www.vapeur.com/ "La brasserie à vapeur")** de Pipaix, en Belgique. Chaque dernier samedi du mois, la bière y est brassée publiquement. Tout est resté artisanal là-bas et on sent la passion qui anime le propriétaire et sa fille. Après une matinée passée autour du brassin à les regarder faire et à écouter leurs explications, il est temps d'aller se repaître. Cette fois-ci au menu il y avait du saumon fumé aux herbes, des rillettes à la bière, une multitude de fromages régionaux, du pain à la bière, de la moutarde aux épices et à la bière, le tout accompagné de bière maison. Bien évidemment, tout est cuisiné maison avec des ingrédients naturels et régionaux. Si comme nous vous avez de la chance, vous croiserez Louis-Michel Carpentier, dessinateur célèbre et habitué des lieux.
+
+Dimanche nous sommes allés au [mont Cassel](http://www.ot-cassel.fr/ "Pays de cassel") dans l'estaminet **'T Kasteelhof**. Autant on m'avait conseillé la brasserie à vapeur, autant pour cet estaminet j'y suis allé au plus complet hasard. J'avais simplement lu une critique dans le [Ch'ti](http://www.lechti.com/ "Le Ch&#039;ti") qui avait retenu mon attention. Bien m'en a pris car le repas fût vraiment excellent. Décor flammand typique, personnel très agréable, nourriture excellente, bref une adresse à retenir. Je vous recommande particulièrement la planche apéritive composée de pâtés, de rillettes et de fromages locaux pour accompagner l'apéritif ainsi que la tarte cassonade/bière en dessert. Elle est à tomber&nbsp;! La bière de l'estaminet n'est pas mal non plus pour ceux qui apprécient la bière ambrée tirant sur la brune. Une fois le repas terminé si vous souhaitez digérer agréablement vous pouvez vous promener sur les sentiers du mont Cassel ou admirer la vue sur la plaine des Flandres depuis l'un des panoramas d'où l'on peut voir jusqu'à 80km.
+
+Quant à lundi, ne voulant pas trop bouger, nous avons jeté notre dévolu sur une brasserie de mon quartier: **Au dessus aux arts**. Sous ce nom étrange se cache une brasserie qui ne paye pas spécialement de mine mais où l'on mange très bien. Aussi bien qu'à la **[Taverne de l'écu](http://www.lille.cci.fr/tourisme/ecu01.html "Taverne de l&#039;écu")**, le plus grand restaurant de Lille, mais où l'on est beaucoup mieux accueilli. Personnellement je pense que lundi j'ai mangé la meilleure carbonnade flammande depuis que j'en mange, c'est à dire un an et demi et je ne vous parle même pas du crumble de pommes et de speculoos ...
+
+Pendant que j'y suis je vous donne une dernière bonne adresse. Je n'y suis pas allé ce week-end mais j'ai eu l'occasion d'y aller il y a quelques mois et j'en ai été ravi. Il s'agit de **[l'auberge du Noord Meulen](http://perso.wanadoo.fr/aubergedunoordmeulen/ "Auberge du Noord Meulen")**. On y mange une très bonne cuisine flammande traditionnelle mais cette auberge a une particularité assez amusante. Le premier qui réserve pour une journée choisit le menu, les suivants doivent l'accepter ou bien réserver un autre jour car c'est menu unique.

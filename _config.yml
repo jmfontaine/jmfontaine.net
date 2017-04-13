@@ -13,6 +13,7 @@ root: /
 
 # Writing
 future: no
+new_post_name: :year-:month-:day-:title.md
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
