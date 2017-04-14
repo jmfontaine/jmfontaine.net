@@ -13,7 +13,7 @@ La fin de cette année va marquer l'histoire de l'AFUP avec l'organisation du **
 
 Pour cette édition lilloise, plusieurs thématiques sont à l'honneur :
 
-*   **Le commerce en ligne** : e-commerce, m-commerce, internet des objets...
+*   **Le commerce en ligne** : e-commerce, m-commerce, internet des objets…
 *   **L'intégration d'applications hétérogènes** au sein des systèmes d'informations
 *   **L'échelle du web** : outils, techniques et astuces pour résister aux montées en charge
 Vous êtes expert dans l'un de ces domaines,  	vous avez installé une ou plusieurs applications PHP dans un contexte  spécifique (forte charge, client reconnu, projet innovant) ou bien vous  participez à un projet Open Source lié à PHP,  	venez proposer des solutions globales à des problématiques locales.

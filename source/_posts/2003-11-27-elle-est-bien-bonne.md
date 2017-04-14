@@ -45,4 +45,4 @@ Quand on examine le code source on trouve un JavaScript assez étrange:
 > >
 > > &lt;/SCRIPT&gt;
 > >
-> > Pourquoi avoir offusqué celui-ci et pas les autres ? Etrangement c'est justement celui qui fait tiquer l'antivirus...</p>
+> > Pourquoi avoir offusqué celui-ci et pas les autres ? Etrangement c'est justement celui qui fait tiquer l'antivirus…</p>

@@ -22,7 +22,7 @@ On peut lire page 34&nbsp;:
 > 
 > _Pour l'invention de l'internet_
 > 
->  [...]Langdon avait toujours considéré Internet comme une invention américaine.[...]
+>  […]Langdon avait toujours considéré Internet comme une invention américaine.[…]
 > 
 > - Internet a commencé ici _[au CERN]_, reprit kohler 
 

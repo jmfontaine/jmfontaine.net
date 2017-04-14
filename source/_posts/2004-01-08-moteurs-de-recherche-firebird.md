@@ -7,7 +7,7 @@ date: 2004-01-08 22:21:08
 tags:
 ---
 
-Ce soir j'ai découvert par hasard qu'il était possible, et même ultra simple, d'ajouter des moteurs de recherche à la fonctionnalité _Recherche_ de la barre d'outils de FireBird. Il suffit de cliquer sur l'icone et de choisir _Add engines ..._. Vous allez arriver sur une page où vous trouverez des dizaines de nouveaux moteurs que vous pouvez installer d'un simple clic. Qui a dit que le logiciel libre était réservé aux geeks prêts à braver les défauts d'ergonomie les plus manifestes ?
+Ce soir j'ai découvert par hasard qu'il était possible, et même ultra simple, d'ajouter des moteurs de recherche à la fonctionnalité _Recherche_ de la barre d'outils de FireBird. Il suffit de cliquer sur l'icone et de choisir _Add engines …_. Vous allez arriver sur une page où vous trouverez des dizaines de nouveaux moteurs que vous pouvez installer d'un simple clic. Qui a dit que le logiciel libre était réservé aux geeks prêts à braver les défauts d'ergonomie les plus manifestes ?
 
 Parmi la pléthore de moteurs de recherches disponibles voici ceux qui m'ont marqué :
 

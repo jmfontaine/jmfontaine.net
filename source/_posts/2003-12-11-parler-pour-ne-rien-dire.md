@@ -16,15 +16,15 @@ Voici un florilège de ses propos :
 > 
 > R: La famille Windows NT, à savoir Windows NT, 2000, XP, 2003. 
 
-Il n'a pas dû bien comprendre la question...
- > Q: Quelle est la meilleure distribution Linux à votre avis... (puisqu'il n'y a qu'un seul Windows !) ?
+Il n'a pas dû bien comprendre la question…
+ > Q: Quelle est la meilleure distribution Linux à votre avis… (puisqu'il n'y a qu'un seul Windows !) ?
 > 
 > R :Je ne saurais le dire, dans le mesure où, honnêtement, je ne suis pas un pratiquant coutumier de Linux. Je l'ai bien sûr installé et ai fait le tour du propriétaire (ho pardon ! :-)) mais ne l'utilise pas quotidiennement. Ce que je peux dire c'est que même les distributions dont on dit qu'elles reconnaissent bien le matériel laissent encore à désirer de ce point de vue (et d'autres). 
 
 Pas mal pour quelqu'un qui a écrit un livre intitulé 'Linux ou Windows" <q>A cause d'un ras le bol essentiellement, d'entendre et de subir la litanie des lieux communs sur Microsoft</q>.
  > Q: Quel est votre parcours ?
 > 
-> Ho là....pour faire court paramédical, banque, intérim (jobs divers, chauffeur de direction à pupitreur), SMO bureautique (traitement de texte dans les années 82), qualité ingénierie, Microsoft et PL-Conseils (traduction). 
+> Ho là….pour faire court paramédical, banque, intérim (jobs divers, chauffeur de direction à pupitreur), SMO bureautique (traitement de texte dans les années 82), qualité ingénierie, Microsoft et PL-Conseils (traduction). 
 
 Je ne vois rien ici qui fasse de lui quelqu'un de légitime pour écrire un tel ouvrage.
  > Q: Comment avoir un avis le plus neutre possible quand on a été embauché pendant des années par Microsoft ?
@@ -41,6 +41,6 @@ On est donc en face d'un utilisateur lambda qui s'érige en spécialiste et qui 
 > 
 > R: Je crois qu'il faut arrêter la paranoïa. Microsoft existe depuis les années 75 et a traversé même la guerre froide sans qu'aucune affaire sérieuse n'ait vu le jour. 
 
-Sans commentaire ...
+Sans commentaire …
 
 Si vous avez le courage de lire l'article jusqu'au bout, vous constaterez que Philippe Logerot nous offrent tout de même quelques remarques intéressantes et plutôt sensées mais cela n'excuse cependant pas l'incompétence dont il fait preuve sur un sujet aussi passionné et complexe.

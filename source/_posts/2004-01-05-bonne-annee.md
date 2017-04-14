@@ -17,6 +17,6 @@ Côté bonnes résolutions, voici pêle mêle ce que je compte faire pour l'ann�
 *   Partir en vacances pour la première fois depuis 7 ans
 *   Me sevrer de mon ordinateur (mais ça c'est pas gagné)
 *   Mieux façonner mes idées et mes arguments en les basant plus sur des faits et moins sur des opinions aléatoires
-*   Arrêter les blagues pourries ... non pour ça je déconne, c'est ma marque de fabrique ;-) 
+*   Arrêter les blagues pourries … non pour ça je déconne, c'est ma marque de fabrique ;-) 
 
 Ca peu paraître présompteux de vouloir modifier tant de choses mais comme on dit, c'est l'intention qui compte.

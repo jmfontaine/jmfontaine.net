@@ -1,5 +1,5 @@
 ---
-title: Une grosse inspiration ...
+title: Une grosse inspiration…
 id: 19
 categories:
   - Général
@@ -7,7 +7,7 @@ date: 2003-10-18 16:53:31
 tags:
 ---
 
-... et c'est parti. Voilà je me lance, je deviens un membre actif de la blogosphère. Non que je ne vais plus apporter mes modestes commentaires aux billets des grands de cette blogosphère mais je vais moi aussi m'offrir une tribune où développer plus en détails mes opinions, mes réactions, mes réflexions, mes humeurs.
+…et c'est parti. Voilà je me lance, je deviens un membre actif de la blogosphère. Non que je ne vais plus apporter mes modestes commentaires aux billets des grands de cette blogosphère mais je vais moi aussi m'offrir une tribune où développer plus en détails mes opinions, mes réactions, mes réflexions, mes humeurs.
 
 Pourquoi me direz vous. Que vais-je pouvoir apporter à ce cercle bien établi de personnalités bigarrées mais toutes aussi intéressantes les unes que les autres ?
 

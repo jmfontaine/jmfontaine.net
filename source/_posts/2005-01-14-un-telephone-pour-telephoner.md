@@ -1,5 +1,5 @@
 ---
-title: Un téléphone ... pour téléphoner !
+title: Un téléphone … pour téléphoner !
 id: 350
 categories:
   - Humeur

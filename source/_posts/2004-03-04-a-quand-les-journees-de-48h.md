@@ -26,6 +26,6 @@ Peut être que je me disperse trop. J'ai déjà nettement réduit mes engagement
 
 Je manque sans doute aussi d'efficacité. je cherche peut être trop la perfection et comme le mieux est souvent l'ennemi du bien, je m'embourbe dans des problèmes qui devraient rester secondaires. Là encore je suis conscient de ça et j'essaie de m'améliorer sur ce point.
 
-J'ai peut être également trop d'amis ... non je plaisante sur ce point. J'ai la chance d'être entouré de gens incroyablement intéressants sur le plan amical et humain. Ce n'est pas parce que j'ai trop peu de temps à vous consacrer que je ne pense pas à vous, sachez le.
+J'ai peut être également trop d'amis … non je plaisante sur ce point. J'ai la chance d'être entouré de gens incroyablement intéressants sur le plan amical et humain. Ce n'est pas parce que j'ai trop peu de temps à vous consacrer que je ne pense pas à vous, sachez le.
 
 Enfin tout cela pour dire que l'homme politique qui promettra des journées de 48h aura ma voix !

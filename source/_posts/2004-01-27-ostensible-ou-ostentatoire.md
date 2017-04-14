@@ -20,7 +20,7 @@ Voici la différence que fait l'Académie Française :
 > 
 >  OSTENTATOIRE. adj. des deux genres. Qui marque de l&#8217;ostentation. Il se dit aussi des Choses. Manières ostentatoires. Démarche ostentatoire. 
 
-On voit bien qu'en adoptant le terme _ostensible_ à la place d_'ostentatoire_, on évince la notion de volonté de parader au profit de la simple notion de visibilité. Dès lors pourquoi ne pas utiliser le terme _visible_ qui est immédiatement compréhensible par tous ? A moins bien sûr qu'il s'agisse de ménager la chèvre et le chou dans une optique toute politicienne ...
+On voit bien qu'en adoptant le terme _ostensible_ à la place d_'ostentatoire_, on évince la notion de volonté de parader au profit de la simple notion de visibilité. Dès lors pourquoi ne pas utiliser le terme _visible_ qui est immédiatement compréhensible par tous ? A moins bien sûr qu'il s'agisse de ménager la chèvre et le chou dans une optique toute politicienne …
 
 De plus quand on lit les exemples d'application, on s'aperçoit qu'en fait le terme ostentatoire serait plus indiqué :
  > Sont considérés comme des signes "ostensibles" le voile islamique, la kippa juive ou la croix chrétienne "de dimension manifestement excessive". **En revanche, les signes discrets -petite croix, étoile de David ou main de Fatma- resteront autorisés.** 

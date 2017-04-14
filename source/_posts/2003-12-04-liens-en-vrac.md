@@ -13,7 +13,7 @@ Faute de temps et devant la somme de choses intéressantes que j'ai dans mes man
 *   **[CSS Crib Sheet](http://www.mezzoblue.com/css/cribsheet/)**: [Je vous avais déjà parlé de cette liste](http://www.dyingculture.net/blog/2003/11/19/20-BonnesPratiquesCss) des bonnes pratiques CSS. Elle passe du statut de simple billet à celui de liste qui sera maintenue et servira de checklist
 *   **[Flexible Layout](http://www.webproducer.at/flexible-layout)**: Exemple de mise en page évoluée en XHTML et CSS valides
 *   **[No Margin for Error](http://www.andybudd.com/blog/archives/000114.html)**: Un billet d'Andy Budd qui explique en détail la gestion des marges en CSS. C'est instructif et met en avant quelques points qui reste confus pour beaucoup
-*   **[Serving XHTML as application/xhtml+xml](http://lists.w3.org/Archives/Public/www-archive/2002Dec/0005.html) for XHTML aware browsers, text/html for others**: Tout est dans le titre ...
+*   **[Serving XHTML as application/xhtml+xml](http://lists.w3.org/Archives/Public/www-archive/2002Dec/0005.html) for XHTML aware browsers, text/html for others**: Tout est dans le titre …
 *   **[Nice Titles](http://www.kryogenix.org/code/browser/nicetitle/)**: Une manière propre de créer des infobulles personnalisées
 *   **[Sorttable](http://www.kryogenix.org/code/browser/sorttable/)**: Créer des tableaux triables par colonnes du côté client et tout cela de manière valide et élégante
 *   **[Drop shadows_http://www.kryogenix.org/code/browser/aqdropshadow/](en)**: Ombres portées sur des textes

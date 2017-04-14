@@ -15,7 +15,7 @@ Ce matin, à la première heure, je reçois un coup de fil&nbsp;:
 
 **Moi:** Bonjour. Euh, à la base ça devait être aujourd'hui mais hier je l'ai repoussé au lundi 1er août.
 
-**Centre:** ... ah. Enfin, il dure combien de temps cet examen&nbsp;? _(Le gars connait bien ses produits apparemment)_
+**Centre:** … ah. Enfin, il dure combien de temps cet examen&nbsp;? _(Le gars connait bien ses produits apparemment)_
 
 **Moi:** 1h30.
 

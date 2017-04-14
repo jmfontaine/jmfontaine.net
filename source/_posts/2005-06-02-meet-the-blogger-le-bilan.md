@@ -17,7 +17,7 @@ Un petit bémol tout de même, j'ai regretté que la plupart des gens se content
 
 Parmi les enseignements que j'ai pu tirer de cette soirée on trouve&nbsp;:
 
-*   la blogosphère est gigantesque mais scindé en chapelles qui finalement ne se connaissent pas vraiment. Ainsi en discutant, je me suis aperçu que le bloggueur le plus connu pour les personnes gravitant dans la sphère des blogs de ressources humaines était Jacques Froissant ... qui était un parfait inconnu pour moi. A l'opposé, ils n'avaient jamais entendu parler de gens comme Trsitan Nitot ou Jeffrey Zeldman, qui sont des bloggeurs de référence à mes yeux. 
+*   la blogosphère est gigantesque mais scindé en chapelles qui finalement ne se connaissent pas vraiment. Ainsi en discutant, je me suis aperçu que le bloggueur le plus connu pour les personnes gravitant dans la sphère des blogs de ressources humaines était Jacques Froissant … qui était un parfait inconnu pour moi. A l'opposé, ils n'avaient jamais entendu parler de gens comme Trsitan Nitot ou Jeffrey Zeldman, qui sont des bloggeurs de référence à mes yeux. 
 
 *   la raison qui pousse les gens à blogger est le désir de communiquer, de s'exprimer. Ensuite les thèmes et les formes varient énormément mais je pense que c'est le dénominateur commun à tous les bloggeurs. 
 

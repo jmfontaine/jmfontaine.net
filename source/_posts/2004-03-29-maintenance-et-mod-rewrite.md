@@ -9,7 +9,7 @@ tags:
 
 Je vous l'avais promis, je vais essayé de publier plus régulièrement des billets maintenant que le site de mon association est en ligne. Alors voilà je vais vous livrer une astuce qui vous simplifiera sans doute énormément la vie.
 
-Tout d'abord mettons nous en situation. Eric, le tableau ... non c'est pas ça, je confond. Je disais donc voici le problème: vous avez un site en production et vous souhaitez le mettre à jour. Comme toute mise à jour elle va entraîner des phénomènes étranges lors de son déroulement. L'idéal serait de bloquer proprement l'accès au site pendant que vous seul pouvez y accèder afin de mettre à jour les fichiers et vérifiez que tout fonctionne comme prévu. Ca vous paraît utopique ? Pourtant c'est très facile à mettre en place. Voici comment.
+Tout d'abord mettons nous en situation. Eric, le tableau … non c'est pas ça, je confond. Je disais donc voici le problème: vous avez un site en production et vous souhaitez le mettre à jour. Comme toute mise à jour elle va entraîner des phénomènes étranges lors de son déroulement. L'idéal serait de bloquer proprement l'accès au site pendant que vous seul pouvez y accèder afin de mettre à jour les fichiers et vérifiez que tout fonctionne comme prévu. Ca vous paraît utopique ? Pourtant c'est très facile à mettre en place. Voici comment.
 
 La clé de cette astuce est le génial [mod_rewrite](http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html "Apache Module mod_rewrite"), un module pour le [serveur Apache](http://httpd.apache.org/ "Apache HTTP server project"). Le principe est tout bête: on interdit l'accès à toute page du site à toute IP autre que la notre.
 

@@ -8,9 +8,9 @@ tags:
 ---
 
 Ce soir, je devais faire ma [rentrée au CNAM](/blog/2005/09/26/470-ingenieeeeeur-informaticieeeeen). J'utilise le passé car j'ai reçu ce midi un courrier disant ceci&nbsp;:
- > [...] Compte tenu du retard pris dans les travaux et l'aménagement des salles de l'E.N.S.A.M., nous sommes dans l'obligation de reporter d'une semaine le démarrage des enseignements.
+ > […] Compte tenu du retard pris dans les travaux et l'aménagement des salles de l'E.N.S.A.M., nous sommes dans l'obligation de reporter d'une semaine le démarrage des enseignements.
 > 
->  Pour le premier semestre, les cours reprendront donc à partir du LUNDI 10 OCTOBRE [...] 
+>  Pour le premier semestre, les cours reprendront donc à partir du LUNDI 10 OCTOBRE […] 
 
 Et les gens qui ne rentre pas chez eux avant d'aller au CNAM aujourd'hui, ils font comment&nbsp;?
 

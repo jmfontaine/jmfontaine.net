@@ -8,7 +8,7 @@ tags:
 ---
 
 Propos tenus par un gendarme au journal télévisé de France 2 à 20h aujourd'hui&nbsp;:
- > Avec les départs en vacances, il y a beaucoup de dépassements par la droite ... 
+ > Avec les départs en vacances, il y a beaucoup de dépassements par la droite … 
 
 J'aimerais qu'il m'explique comment on peut dépasser quelqu'un par la droite&nbsp;! Ou alors c'est que cette personne n'est pas correctement positionnée sur la route mais ça, ça ne pose aucun problème apparemment.
 

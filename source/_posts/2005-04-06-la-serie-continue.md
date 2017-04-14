@@ -1,5 +1,5 @@
 ---
-title: La série continue ...
+title: La série continue …
 id: 380
 categories:
   - PHP

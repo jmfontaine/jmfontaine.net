@@ -10,10 +10,10 @@ tags:
 Voici une astuce toute simple pour diminuer la taille de vos tests quand ceux-ci sont simples et répétitifs.
 
 Admettons que vous souhaitiez vérifier que _la valeur d'une variable vaux soit 2, soit 3, soit 7, soit 9_. La méthode qui vient immédiatement à l'esprit est de multiplier les tests de cette manière&nbsp;:
- <pre>if ($variable == 2 ||     $variable == 3 ||     $variable == 7 ||     $variable == 9 ) {   // ... code ... }</pre> 
+ <pre>if ($variable == 2 ||     $variable == 3 ||     $variable == 7 ||     $variable == 9 ) {   // … code … }</pre> 
 
 Cela fait beaucoup de lignes pour un test assez simple finalement. En y regardant de plus près, on s'apercoit qu'on peut reformuler le problème ainsi&nbsp;: _la valeur d'une variable est-elle dans l'ensemble 2, 3, 7, 9 ?_. Ce qui s'écrit ainsi en PHP&nbsp;:
- <pre>if (in_array($variable, array(2, 3, 7, 9))) {   // ... code ... }</pre> 
+ <pre>if (in_array($variable, array(2, 3, 7, 9))) {   // … code … }</pre> 
 
 Le code est maintenant beaucoup plus concis et tout aussi simple à comprendre.
 

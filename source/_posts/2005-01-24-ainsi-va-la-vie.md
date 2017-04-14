@@ -1,5 +1,5 @@
 ---
-title: Ainsi va la vie ...
+title: Ainsi va la vie …
 id: 353
 categories:
   - Blogosphère

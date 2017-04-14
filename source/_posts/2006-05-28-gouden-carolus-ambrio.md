@@ -9,7 +9,7 @@ tags:
 
 ![](/images/biere_de_la_semaine/gouden_carolus_ambrio.jpg)
 
-Après de nombreux mois d'absence pour cause de ................................ (insérer ici une excuse bidon qui ne dupera personne mais que chacun feindra de croire pour éviter de fâcher le maître des lieux qui vous en remercie), voici que ce dimanche s'écrit un nouveau chapître de la rubrique "[La bière de la semaine](/La-biere-de-la-semaine)".
+Après de nombreux mois d'absence pour cause de ………………………….. (insérer ici une excuse bidon qui ne dupera personne mais que chacun feindra de croire pour éviter de fâcher le maître des lieux qui vous en remercie), voici que ce dimanche s'écrit un nouveau chapître de la rubrique "[La bière de la semaine](/La-biere-de-la-semaine)".
 
 On continue donc avec une bière ambrée produite par la brasserie Belge [Het Anker](http://www.hetanker.be/), la Gouden Carolus Ambrio. Le nom, signifiant littéralement Carolus d'Or, fait référence à une pièce de monnaie frappée à l'effigie de [Charles Quint](http://fr.wikipedia.org/wiki/Charles_Quint).
 

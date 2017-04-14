@@ -1,5 +1,5 @@
 ---
-title: 'Dallas, tes problèmes capilaires impitoyables ...'
+title: 'Dallas, tes problèmes capilaires impitoyables …'
 id: 444
 categories:
   - Nimportenawak

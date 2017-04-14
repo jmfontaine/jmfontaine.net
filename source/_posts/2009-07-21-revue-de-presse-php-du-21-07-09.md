@@ -27,5 +27,5 @@ L'extension cURL permet à PHP de gérer de manière avancée les requêtes HTTP
 Et voici l'article bonus de la semaine :
 
  [Comment parler English fluently et lire des livres compliqués en Anglais (pour les Nuls)](http://www.des-livres-pour-changer-de-vie.fr/comment-parler-english-fluently-et-lire-des-livres-compliques-en-anglais-pour-les-nuls/)
-Beaucoup de développeurs font un blocage sur les sources d'information en anglais. C'est vraiment dommage car la majorité des bonnes informations techniques sont rédigées dans la langue de Britney Spears ... pardon Shakespeare.
+Beaucoup de développeurs font un blocage sur les sources d'information en anglais. C'est vraiment dommage car la majorité des bonnes informations techniques sont rédigées dans la langue de Britney Spears … pardon Shakespeare.
 Il existe des méthodes simples et progressives pour s'habituer à mieux maîtriser l'anglais et lever ces blocages plus psychologiques que réels.

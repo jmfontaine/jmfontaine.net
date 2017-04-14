@@ -1,5 +1,5 @@
 ---
-title: On le perd docteur Carter ...
+title: On le perd docteur Carter …
 id: 191
 categories:
   - Général

@@ -23,7 +23,7 @@ BBClone en tant que plugin DotClear ne compte comme page vue que les pages du bl
 
 Enfin, je doute que les personnes ayant désactivé le Javascript, les personnes ayant des dispositifs pour masquer les publicités et les personnes qui ne consultent mes billets que dans leur agrégateur représentent 88% de mes visiteurs. Les valeurs de Google AdSense semblent donc incorrectes.
 
-Concernant les gains, j'ai gagné durant la semaine en tout et pour tout la somme astronomique de ... 0,72 $. Clairement, le fait de n'avoir que très peu de clics me pénalise car les gains résultant de la conjonction pages vues/clics, sans clic ceux-ci sont nuls quelque soit le nombre de pages vues. J'ai ainsi plusieurs journées avec 300 ou 400 pages vues mais sans clic qui ne m'ont rien rapporté du tout.
+Concernant les gains, j'ai gagné durant la semaine en tout et pour tout la somme astronomique de … 0,72 $. Clairement, le fait de n'avoir que très peu de clics me pénalise car les gains résultant de la conjonction pages vues/clics, sans clic ceux-ci sont nuls quelque soit le nombre de pages vues. J'ai ainsi plusieurs journées avec 300 ou 400 pages vues mais sans clic qui ne m'ont rien rapporté du tout.
 
 J'ai consulté quelques guides pour améliorer l'efficacité des publicités mais il en ressort qu'on ne peut concilier publicités non intrusives et gains significatifs. La plupart des méthodes préconisent de mélanger les publicités au contenu et de faire en sorte quelles puissent être confondues avec celui-ci afin de générer un maximum de clics. Pour ma part, je refuse catégoriquement ces méthodes. Sur ce blog, les publicités sont bien séparées du contenu, elles sont reléguées tout en bas du menu latéral et leur nature commerciale est clairement signalée.
 

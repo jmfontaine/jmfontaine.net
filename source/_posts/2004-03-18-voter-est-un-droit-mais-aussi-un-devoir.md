@@ -15,4 +15,4 @@ Croient-ils que la politique de l'autruche va faire s'arranger les choses ? Bien
 
 Pour faire une analogie plus parlante pour les geeks que nous sommes. On peut comparer le vote à la validation d'une page HTML. Si la page valide alors c'est un bon début. Cela ne veux absolument pas dire que cette page est une _bonne page_ car elle peut être inaccessible et non sémantique mais si elle ne valide même pas alors il est sûr que c'est une _mauvaise page_.
 
-Conclusion dimanche allez voter ... et validez vos pages.
+Conclusion dimanche allez voter … et validez vos pages.

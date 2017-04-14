@@ -7,7 +7,7 @@ date: 2004-03-04 14:27:57
 tags:
 ---
 
-Je ne suis pas du genre compréhensif avec l'administration. Je suis même parfois, il faut le reconnaitre, assez injuste avec nos amis planqués ... pardon fonctionnaires.
+Je ne suis pas du genre compréhensif avec l'administration. Je suis même parfois, il faut le reconnaitre, assez injuste avec nos amis planqués … pardon fonctionnaires.
 
 Cette année, et pour la première fois de ma vie je dois remplir une déclaration d'impôt. Comme pour beaucoup de gens, l'administration fiscale est quelque chose de très obscure pour moi. Je suis le premier à souhaiter payer des impôts car ils sont indispensable à la vie de la République et au nivellement des injustices, seulement je ne souhaite pas que remplir ma feuille d'impôts devienne un travail à plein temps.
 

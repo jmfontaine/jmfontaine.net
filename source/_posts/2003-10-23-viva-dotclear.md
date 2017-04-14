@@ -7,7 +7,7 @@ date: 2003-10-23 18:26:42
 tags:
 ---
 
-Je ressens périodiquement un besoin fort d'exprimer une idée, un sentiment, une réaction et j'étais frustré de ne pas pouvoir l'exprimer comme je l'aurais souhaité. Puis j'ai découvert les blogs et là je me suis dis que c'était exactement ce que je voulais faire. N'arrivant pas à trouver un outil qui me convienne je métais résigner à créer le mien. Seulement faute de temps libre, j'avais repoussé l'ouverture de mon blog aux calendes grèques. Mais c'était sans compter sur [Olivier Meunier](http://www.neokraft.net/) et son outil [DotClear](http://www.dotclear.net/). Celui-ci est vraiment bien pensé, simple, puissant, propre bref il m'a convaincu de ne pas développer mon propre outil ... tout du moins dans l'immédiat.
+Je ressens périodiquement un besoin fort d'exprimer une idée, un sentiment, une réaction et j'étais frustré de ne pas pouvoir l'exprimer comme je l'aurais souhaité. Puis j'ai découvert les blogs et là je me suis dis que c'était exactement ce que je voulais faire. N'arrivant pas à trouver un outil qui me convienne je métais résigner à créer le mien. Seulement faute de temps libre, j'avais repoussé l'ouverture de mon blog aux calendes grèques. Mais c'était sans compter sur [Olivier Meunier](http://www.neokraft.net/) et son outil [DotClear](http://www.dotclear.net/). Celui-ci est vraiment bien pensé, simple, puissant, propre bref il m'a convaincu de ne pas développer mon propre outil … tout du moins dans l'immédiat.
 
 ### Revue
 

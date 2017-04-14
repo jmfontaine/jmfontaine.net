@@ -17,7 +17,7 @@ Si le nom du groupe est bel et bien tiré des films (la pochettre du premier alb
 
 Le groupe est créé par Mike Patton (_Faith No More_, _Mr Bungle_, _Tomahawk_) juste après la séparation de _Faith No More_. Rapidement arrivent Buzz Osbourne (_[Melvins](http://www.ipecac.com/bio.php?id=5 "Melvins")_) à la guitare, Trevor Dunn (_Mr Bungle_) à la basse et Dave Lombardo (_[Slayer](http://www.diabolus.net/ "S L A Y E R: Diabolus in Musica")_, _Grip Inc._) à la batterie.
 
-#### Un premier album ... expérimental
+#### Un premier album … expérimental
 
 Le moins que l'ont puisse dire est que le premier album du groupe, sorti durant l'été 1999, est expérimental. Composé de 30 morceaux nommé _Book 1: Page 1_ à _Book 1: Page 30_, celui-ci met en place un univers homogène, dense, oppressant.
 

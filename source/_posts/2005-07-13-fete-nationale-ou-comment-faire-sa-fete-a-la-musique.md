@@ -32,4 +32,4 @@ En regardant [la Voix du nord](http://www.lavoixdunord.fr/), le journal régiona
 *   François Feldman _à Marly_
 *   Lââm _à Saint-Amand-les-Eaux_ 
 
-Devant le nombre de _stars_ ringardes qui seront dans la région, je me dis que ça n'en laisse pas beaucoup pour le reste du pays ... veinards&nbsp;!
+Devant le nombre de _stars_ ringardes qui seront dans la région, je me dis que ça n'en laisse pas beaucoup pour le reste du pays … veinards&nbsp;!

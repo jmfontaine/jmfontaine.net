@@ -16,7 +16,7 @@ Choisir un standard de codage est un élément essentiel du processus d'industri
 Une initiative vient d'être lancée pour essayer de faire émerger un standard si ce n'est unique tout du moins principal pour le code PHP.
 *   [SpiderMonkey&nbsp;: Exécuter du Javascript côté serveur, depuis PHP](http://blog.pascal-martin.fr/post/spidermonkey-javascript-serveur-depuis-php)
 Depuis mi-février et la sortie de l’extension pecl::spidermonkey développée par Christophe Robin, il est possible d'utiliser le moteur SpiderMonkey depuis PHP pour exécuter du code Javascript sur le serveur, au sein d'une application PHP. Cet article explique comment faire.
-*   [Des valeurs par défaut ... qui cachent des bugs !](http://blog.phppro.fr/?post/2009/05/30/Des-valeurs-par-defaut-qui-cachent-des-bugs)
+*   [Des valeurs par défaut … qui cachent des bugs !](http://blog.phppro.fr/?post/2009/05/30/Des-valeurs-par-defaut-qui-cachent-des-bugs)
 Le comportement de PHP lors de l'utilisation de valeurs par défaut pour les arguments de fonctions ou de méthodes de classes peut être déroutant.
 Dans cet article Olivier Hoareau, pointe les problèmes que l'on est susceptibles de rencontrer si on ne fait pas attention.
 *   [PHPUnit : tests unitaires pour PHP](http://www.unixgarden.com/index.php/programmation/phpunit%E2%80%AF-tests-unitaires-pour-php)

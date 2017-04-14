@@ -12,7 +12,7 @@ A mon nouveau travail on est sur Mac OS X. Je n'avais jamais eu l'occasion de tr
 Cependant certaines choses me dérangent&nbsp;:
 
 *   Dans le Finder, le mode de visualisation n'est pas définissable pour tous les répertoires mais juste pour le répertoire en cours
-*   Les noms longs sont difficilement lisibles dans le Finder (Ex: _Un nom de fichier...très très long.txt_)
+*   Les noms longs sont difficilement lisibles dans le Finder (Ex: _Un nom de fichier…très très long.txt_)
 *   Des tas de caractères ne sont pas visibles sur le clavier. Ils sont disponibles mais il faut deviner la combinaison de touches qui permet de les obtenir. (Ex: les crochets, les accolades, la tilde, le pipe)
 *   L'offre logiciel semble particulièrement pauvre 
 

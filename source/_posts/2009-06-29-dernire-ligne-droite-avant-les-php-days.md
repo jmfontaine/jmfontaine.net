@@ -13,7 +13,7 @@ Au programmes 4 formations dispensées par les meilleurs experts PHP français&n
 
 **Jour 1 - matinée&nbsp;: Environnement et procédures de développement**
 
-La première matinée permettra a tous les participants de mettre en place un environnement de travail complet, cohérent et optimisé (IDE, débogueur, normes, procédures, ...).
+La première matinée permettra a tous les participants de mettre en place un environnement de travail complet, cohérent et optimisé (IDE, débogueur, normes, procédures, …).
 
 *   Panorama des IDE PHP, choix commenté et installation d'une solution
 *   Les normes de développement.

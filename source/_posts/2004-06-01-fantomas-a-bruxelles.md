@@ -11,7 +11,7 @@ Jeudi dernier [Fantômas](http://www.ipecac.com/fantomas.php "Fantômas") était
 
 La salle de concert, [Ancienne Belgique](http://www.abconcerts.be/ "Ancienne Belgique"), est plutôt bien agencée et le bar assez sympa. Je n'en dirais malheureusement pas autant du public qui n'était vraiment pas au niveau de celui de Lille ou du Havre. Entre les excités à qui il faudrait expliquer les "règles" du pogo et ceux qui semblait découvrir qu'ils pouvaient hurler, le niveau était assez bas niveau bon esprit. Gageons que c'était des cas isolés et que le public Belge est plus agréable d'ordinaire.
 
-[Flat Earth Society](http://www.fes.be/ "Flat Earth Society") s'occupait de chauffer la salle mais nous avons totalement manqué leur concert à cause de la difficulté à se garer dans Bruxelles ... ainsi qu'à une bonne Leffe.
+[Flat Earth Society](http://www.fes.be/ "Flat Earth Society") s'occupait de chauffer la salle mais nous avons totalement manqué leur concert à cause de la difficulté à se garer dans Bruxelles … ainsi qu'à une bonne Leffe.
 
 Finalement Fantômas est arrivé sur scène. Ce n'était pas la première fois que je les voyait car ils étaient il y a 3 ans aux Eurockéennes de Belfort mais cette fois-ci était assez différente. Mike _la voix_ Patton et Dave _le cogneur_ Lombardo sont toujours aussi impressionnants. Quant à Buzz _la touffe_ Osborne et Trevor _la crête_ Dunn ils ont assuré leurs parties plus qu'honorablement.
 

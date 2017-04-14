@@ -28,6 +28,6 @@ Pas découragé, j'appelle un troisième cabinet où cette fois on décroche&nbs
 > 
 > _**secrétaire**: Parce que c'est comme cela que l'on fonctionne depuis 2 ans monsieur._
 > 
-> _**moi**&nbsp;: euh ... merci, au revoir._ 
+> _**moi**&nbsp;: euh … merci, au revoir._ 
 
 J'ai finalement réussi à obtenir un rendez-vous mais je reste perplexe devant les horaires d'ouverture de certains cabinets. Les durées d'attente pour obtenir un rendez-vous sont énormes (sur les cabinets que j'ai contacté cela allait de 4 à 9 mois avec une moyenne de 6 ou 7 mois) et pourtant certains semblent travailler à peine à mi-temps.

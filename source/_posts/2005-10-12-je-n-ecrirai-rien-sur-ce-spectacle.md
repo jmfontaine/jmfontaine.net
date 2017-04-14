@@ -1,5 +1,5 @@
 ---
-title: Je n'écrirai rien sur ce spectacle ...
+title: Je n'écrirai rien sur ce spectacle …
 id: 508
 categories:
   - Divers
