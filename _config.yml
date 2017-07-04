@@ -20,6 +20,12 @@ new_post_name: :year-:month-:day-:title.md
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 10
+  content: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
