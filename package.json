@@ -1,0 +1,22 @@
+{
+  "name": "jmfontaine.net",
+  "version": "2.0.0",
+  "description": "Jean-Marc Fontaine's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmfontaine/jmfontaine.net.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmfontaine/jmfontaine.net/issues"
+  },
+  "homepage": "https://github.com/jmfontaine/jmfontaine.net#readme",
+  "devDependencies": {
+    "metalsmith": "^2.3.0",
+    "standard": "^10.0.2"
+  }
+}
