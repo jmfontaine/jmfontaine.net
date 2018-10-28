@@ -1,4 +1,1 @@
-.bundle/
-_site/
-vendor/
-s3_website.yml
+/public

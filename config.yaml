@@ -1,0 +1,5 @@
+baseURL: http://jmfontaine.net/
+languageCode: en-us
+theme: kiera
+title: Jean-Marc Fontaine
+metaDataFormat: yaml
